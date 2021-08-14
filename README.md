@@ -18,8 +18,7 @@
 
 * 主要建材：台灣杉 [3.8 x 8/9 x 360cm] 尺寸。
 * 數位模型［整體木構3D］：Catcher's Position: https://skfb.ly/ooMID; Pitcher's Position: https://skfb.ly/ooMI8
-<br/>
-<br/>
+
 ![image](https://github.com/linghsuanh/2020_Taitung_Chulu-Between-Mountain-Clouds/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/CBMC_Sketchfab_Model/CBMC_Sketchfab_Model.png)
 <br/>
 <br/>
