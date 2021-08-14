@@ -12,7 +12,7 @@
 
 * Google Map 位置：https://goo.gl/maps/nYVf215Q8UMeJW5S6  <br/>
 
-![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchlab%20%2B%20GMap)/PYB_GMap.png)
+![image](https://github.com/linghsuanh/2020_Taitung_Chulu-Between-Mountain-Clouds/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/CBMC_GMap.png)
 ***
 ## 專案介紹：<br/>
 <<<<<<< HEAD
