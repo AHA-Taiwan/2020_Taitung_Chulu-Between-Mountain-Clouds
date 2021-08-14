@@ -1,4 +1,4 @@
-# 2020-Taitung-Chulu Between Mountain Clouds
+# 2020-Taitung-Chulu Between the Mountain Clouds
 
 >Humanitarian Architecture in Taitung<br/>
 >
