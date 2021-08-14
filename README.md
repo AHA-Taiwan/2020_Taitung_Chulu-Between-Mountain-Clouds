@@ -15,30 +15,12 @@
 ![image](https://github.com/linghsuanh/2020_Taitung_Chulu-Between-Mountain-Clouds/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/CBMC_GMap.png)
 ***
 ## 專案介紹：<br/>
-<<<<<<< HEAD
+
 * 主要建材：台灣杉 [3.8 x 8/9 x 360cm] 尺寸。
 * 數位模型［整體木構3D］：Catcher's Position: https://skfb.ly/ooMID; Pitcher's Position: https://skfb.ly/ooMI8
-
-捕手位置 Catcher's Position
 <br/>
 <br/>
-![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchlab%20%2B%20GMap)/Sketchlab%20Models/PYB_Catcher_s%20Position.png)
-<br/>
-<br/>
-投手位置 Pitcher's Position
-<br/>
-<br/>
-![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/001.%20Blueprint/README%20IMAGE%20(Sketchlab%20%2B%20GMap)/Sketchlab%20Models/PYB_Pitcher_s%20Position.png)
-<br/>
-<br/>
-捕手區施工步驟（Construction Process of the Catcher's Position）<br/>
-<br/>
-![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/002.%20Handbook/Constr-Process%20Steps%20(.gif)/PYB_Catcher_s%20Position.gif)
-<br/>
-<br/>
-投手區施工步驟（Construction Process of the Pitcher's Position）<br/>
-<br/>
-![image](https://github.com/linghsuanh/2020_Taitung_PuyumaYouthBaseballBullpen/blob/master/002.%20Handbook/Constr-Process%20Steps%20(.gif)/PYB_Pitcher_s%20Position.gif)
+![image](https://github.com/linghsuanh/2020_Taitung_Chulu-Between-Mountain-Clouds/blob/main/001.%20Blueprint/README%20IMAGE%20(Sketchfab%2BGMap)/CBMC_Sketchfab_Model/CBMC_Sketchfab_Model.png)
 <br/>
 <br/>
 ***
