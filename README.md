@@ -1,5 +1,5 @@
 # 2020｜台東初鹿｜山嵐。之間
-## _Chulu Between the Mountain Clouds_, Taitung, Taiwan
+## _Chulu Between the Mountain Clouds_
 
 >Humanitarian Architecture in Taitung<br/>
 >
